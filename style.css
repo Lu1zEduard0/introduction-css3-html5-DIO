@@ -45,9 +45,13 @@ body {
     padding: 0 8rem;
 }
 
+.slider {
+    background-color: #003569;
+}
+
 .phone-app-demo {
     height: 61.8rem;
-    background: url("img/celular.png") center no-repeat;
+    background: url("img/celular-2.png") center no-repeat;
     flex: 1;
 }
 

@@ -1,4 +1,4 @@
-# Introdução a criação de websites com HTML5 e CSS3
+# Criação de website com HTML5 e CSS3
 ![](https://img.shields.io/github/languages/count/Lu1zEduard0/introduction-css3-html5-DIO) ![](https://img.shields.io/github/repo-size/Lu1zEduard0/introduction-css3-html5-DIO) ![](https://img.shields.io/github/last-commit/Lu1zEduard0/introduction-css3-html5-DIO)
 
 ## :computer:	 Projeto
@@ -7,5 +7,5 @@ O clone do Instagram responsivo utilizando flex box, foi desenvolvido no BootCam
 
 ![](https://github.com/Lu1zEduard0/introduction-css3-html5-DIO/blob/main/github/home-screen-web.PNG?raw=true)
 
-- [ ] Futuras mudanças utilizando JavaScript para animação (Transinção de imagem) na tela do celular.
+- [ ] Futuras mudanças utilizando JavaScript para animação (Transição de imagem) na tela do celular.
 

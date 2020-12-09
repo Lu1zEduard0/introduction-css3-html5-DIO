@@ -143,8 +143,18 @@ body {
     margin: 1rem 0;
 }
 
+
+/* .facebook-login {
+    height: 10px;
+    background: url("img/facebook-clipart-favicon.png") center no-repeat;
+} */
+
+.facebook-login i {
+    font-size: 1 ss5px;
+}
+
 .sign-up a {
-    color: 3897f0;
+    color: #3897f0;
     font-weight: bold;
 }
 
@@ -179,34 +189,32 @@ footer {
 
 footer .container {
     text-align: center;
-    display: flex;
-    justify-content: space-between;
-    font-weight: bold;
     font-size: 1.2rem;
-    flex-wrap: wrap;
     margin-top: 0;
 }
 
 .footer-nav ul {
-    display: flex;
-    text-align: center;
-    flex-wrap: wrap;
     list-style: none;
+    padding: 0px;
+    margin: 0px;
 }
 
 .footer-nav ul li {
-    margin-right: 1.6rem;
+    color: #8d8b8b;
+    display: inline-block;
+    margin: 0px 12px 0px 0px;
 }
 
-.footer-nav ul li a {
+.footer-nav a {
     color: #8d8b8b;
 }
 
-.copyright-notice {
+
+/* .copyright-notice {
     color: #999999;
     font-size: 8pt;
     position: relative;
-}
+} */
 
 @media (max-width: 900px) {
     .phone-app-demo {
@@ -233,6 +241,11 @@ footer .container {
 @media (max-width:450px) {
     #wrapper {
         padding-top: 0;
+    }
+    .form-data form {
+        background-color: transparent;
+        border: none;
+        margin: 0 2rem;
     }
     .sign-up {
         background-color: transparent;

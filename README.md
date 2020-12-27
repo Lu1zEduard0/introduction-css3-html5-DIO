@@ -23,7 +23,7 @@ $ git clone <https://github.com/Lu1zEduard0/introduction-css3-html5-DIO.git>
 
 Acessando o a pasta do projeto no terminal
 
-$ cd login-instagram
+$ cd introduction-css3-html5-DIO
 ````
 
 ##### Tecnologias usadas:
